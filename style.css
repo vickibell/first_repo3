@@ -1,4 +1,5 @@
 body {
+  background-image: url("dawn.jpg");
   background-color: gray;
   font-family: avenir;
     text-indent: 24px;
@@ -12,7 +13,7 @@ h1 {
   color: orange;
 }
 p {
-  colour: blue;
+  color: blue;
 }
 
 section p { 
@@ -21,6 +22,11 @@ section p {
 
 #bestcat {
   border: 5px solid white;
+}
+.bucket {
+  font-family: garamond;
+  font-size: 18px;
+  color: #DCF5F7;
 }
 
 #main {
