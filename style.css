@@ -1,0 +1,37 @@
+body {
+  background-color: gray;
+  font-family: avenir;
+    text-indent: 24px;
+}
+header {
+  padding-top: 12px;
+  border-top: 12px;
+} 
+h1 {
+    font-size: 36px;
+  color: orange;
+}
+p {
+  colour: blue;
+}
+
+section p { 
+  color: yellow;
+}
+
+#bestcat {
+  border: 5px solid white;
+}
+
+#main {
+  font-size: 14px;
+}
+h4 {
+  font-family: helvetica;
+  color: white;
+}
+footer {
+  font-family: avenir;
+  font-size: 24px;
+  color: orange;
+}
