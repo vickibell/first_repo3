@@ -1,19 +1,25 @@
+/*comment: i am allergic to cats, even very sweet kittens*/
 body {
   background-image: url("dawn.jpg");
   background-color: gray;
-  font-family: avenir;
+  font-family: tahoma;
     text-indent: 24px;
 }
 header {
   padding-top: 12px;
   border-top: 12px;
+  padding-right: 500px;
 } 
 h1 {
     font-size: 36px;
   color: orange;
+  text-align: right;
 }
 p {
   color: blue;
+}
+span {
+  font-style: italic;
 }
 
 section p { 
@@ -21,23 +27,23 @@ section p {
 }
 
 #bestcat {
-  border: 5px solid white;
+  border: 10px solid white;
 }
 .bucket {
-  font-family: garamond;
-  font-size: 18px;
-  color: #DCF5F7;
+  font-family: tahoma;
+  font-size: 14px;
+  color: yellow;
 }
 
 #main {
   font-size: 14px;
 }
 h4 {
-  font-family: helvetica;
+  font-family: tahoma;
   color: white;
 }
 footer {
-  font-family: avenir;
+  font-family: tahoma;
   font-size: 24px;
   color: orange;
 }
